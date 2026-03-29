@@ -5,6 +5,10 @@
 - MongoDB Cloud
 - Postman
 - Upstash
+- React
+- Vite
+- daisyUI
+- Tailwind CSS
 
 ### Tutorial Vid
-https://youtu.be/F9gB5b4jgOI?si=jkVd_dURG1TAS4H9&t=5173
+https://youtu.be/F9gB5b4jgOI?si=fEx9DoAGbSZXUy7R&t=7349
