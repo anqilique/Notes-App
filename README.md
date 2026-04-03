@@ -11,4 +11,4 @@
 - Tailwind CSS
 
 ### Tutorial Vid
-https://youtu.be/F9gB5b4jgOI?si=7c2JlZBbTkllYWAk&t=8075
+https://youtu.be/F9gB5b4jgOI?si=nOwZVQhNeZx_71Vl&t=10182
