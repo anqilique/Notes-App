@@ -73,7 +73,7 @@ const CreatePage = () => {
                     placeholder="Note Title"
                     className="input input-bordered"
                     value={title}
-                    onChange={(e) => setTitle(e.target.value)}
+                    onChange={(event) => setTitle(event.target.value)}
                   />
                 </div>
 
