@@ -1,10 +1,9 @@
-# Notes App
-_Using the MERN Stack_
+<h1 align="center">Notes App</h1>
 
-fancy image here
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/651ac1d8-42ce-46b5-b9ac-caa0b57af67d" />
 
 ## Table of Contents
-- [Key Highlights](#key-Highlights)
+- [Key Highlights](#key-highlights)
 - [Running the App](#running-the-app)
   - [In Production](#in-production)
   - [In Development](#in-development)
@@ -68,4 +67,13 @@ fancy image here
 
 ## Gallery
 
-fancy images here...
+_Notes Page_
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/651ac1d8-42ce-46b5-b9ac-caa0b57af67d" />
+
+_Note Details Page_
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/af337c70-e85a-4c09-834c-327bdd0f0143" />
+
+_Create Note Page_
+<img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/aa683a49-4da6-45dc-b50b-b3d50db14578" />
+
+
