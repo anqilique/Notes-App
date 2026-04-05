@@ -37,7 +37,7 @@ const CreatePage = () => {
       if (error.response.status === 429) {
         toast.error("Too many requests! Please slow down and try again.");
       } else {
-        toast.error("An error occured. Please try again later.");
+        toast.error("An error occurred. Please try again later.");
       }
 
       console.error("Error creating note:", error);
