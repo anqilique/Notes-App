@@ -4,13 +4,23 @@
 
 ## Table of Contents
 - [Key Highlights](#key-highlights)
+  - [Tech Stack](#tech-stack) 
 - [Running the App](#running-the-app)
   - [In Production](#in-production)
   - [In Development](#in-development)
+- [Future Improvements](#future-improvements)
 - [Gallery](#gallery) 
 
 ## Key Highlights
-- blah blah
+- Full-stack app built using the MERN stack (MongoDB, Express, React, Node).
+- Notes contain a basic title and content section.
+- Allows for creating, editing, deleting notes.
+- Created as a [learning project](https://www.youtube.com/watch?v=F9gB5b4jgOI).
+
+### Tech Stack
+[![MERN](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs&theme=dark&perline=15)](https://skillicons.dev)
+
+
 
 ## Running the App
 ### In Production
@@ -64,6 +74,11 @@
     ```
 4. **View on browser at**
    [http://localhost:5173/](http://localhost:5173/)
+
+## Future Improvements
+- Implement some form of user authentication to allow for safe, live deployment.
+- Add other types of information to notes (e.g. tags, priority levels).
+- Create a toggle to swap between themes.
 
 ## Gallery
 
