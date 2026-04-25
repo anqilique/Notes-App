@@ -12,7 +12,7 @@
 - [Gallery](#gallery) 
 
 ## Key Highlights
-- Full-stack app built using the MERN stack (MongoDB, Express, React, Node).
+- Full-stack app built using the MERN stack (MongoDB, Express, React, and Node.js).
 - Notes contain a basic title and content section.
 - Allows for creating, editing, deleting notes.
 - Created as a [learning project](https://www.youtube.com/watch?v=F9gB5b4jgOI).
